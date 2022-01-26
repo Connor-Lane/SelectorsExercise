@@ -55,7 +55,7 @@ input[checked] {
     margin-left: 40px;
 }
 
-li {
+label {
     text-transform: lowercase;
 }
 
